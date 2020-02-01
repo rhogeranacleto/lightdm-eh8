@@ -42,11 +42,11 @@ export function save(s) {
 
 export function avatar(avatar) {
   if (!avatar || avatar === "") {
-    return require("./assets/images/eh8.png");
+    return require("./assets/images/rhogeranacleto.jpeg");
   }
 
   if (avatar === "eh8") {
-    return require("./assets/images/eh8.png");
+    return require("./assets/images/rhogeranacleto.jpeg");
   }
 
   if (avatar === "litarvan") {
