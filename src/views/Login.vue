@@ -191,7 +191,7 @@ export default {
 }
 
 #login-content {
-  margin-top: 35vh;
+  margin-top: 25vh;
 }
 
 #login-content.no-avatar {
@@ -207,7 +207,7 @@ export default {
 }
 
 #avatar-image {
-  height: 80px;
+  height: 140px;
 }
 
 .round {
